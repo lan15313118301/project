@@ -23,9 +23,9 @@ return array(
     'URL_MODEL'                 =>  2, // 如果你的环境不支持PATHINFO 请设置为3
     'DB_TYPE'                   =>  'mysql',
     'DB_HOST'                   =>  'localhost',
-    'DB_NAME'                   =>  'bjjsdkj',
-    'DB_USER'                   =>  'bjjsdkj',
-    'DB_PWD'                    =>  'hongyang098',
+    'DB_NAME'                   =>  'mysql',
+    'DB_USER'                   =>  'root',
+    'DB_PWD'                    =>  '31O83O66fAe908Re1c53',
     'DB_PORT'                   =>  '3306',
     'DB_PREFIX'                 =>  'dr_',
     'APP_AUTOLOAD_PATH'         =>  '@.TagLib',
